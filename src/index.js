@@ -9,7 +9,7 @@ const port = 9090;
 
 app.use(express.static('resources'));
 
-app.get('/', (req, res) => {
+app.get('/api/', (req, res) => {
     res.send('Welcome to the Eras Tour');
 });
 
