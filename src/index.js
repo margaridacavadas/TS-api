@@ -13,15 +13,15 @@ app.get('/', (req, res) => {
     res.send('Welcome to the Eras Tour');
 });
 
-app.get('/albums', (req, res) => {
+app.get('/api/albums', (req, res) => {
     res.json(albums);
 })
 
-app.get('/albums/1/lyrics', (req, res) => {
+app.get('/api/albums/1/lyrics', (req, res) => {
     res.json(tsLyrics.taylorSwiftAlbum);
 })
 
-app.get('/albums/2/lyrics', (req, res) => {
+app.get('/api/albums/2/lyrics', (req, res) => {
     res.json(fearLyrics.fearlessAlbum);
 })
 
