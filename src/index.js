@@ -2,6 +2,7 @@ import express from 'express';
 import { albums } from './ts-albums.js';
 import * as tsLyrics from './ts-lyrics.js';
 import * as fearLyrics from './fearless-lyrics.js';
+import * as speakNowLyrics from './speaknow-lyrics.js';
 
 const app = express();
 const port = 9090;
@@ -23,6 +24,10 @@ app.get('/api/albums/1/lyrics', (req, res) => {
 
 app.get('/api/albums/2/lyrics', (req, res) => {
     res.json(fearLyrics.fearlessAlbum);
+})
+
+app.get('/api/albums/3/lyrics', (req, res) => {
+    res.json(speakNowLyrics.speakNowAlbum);
 })
 
 app.listen(port, () => {
