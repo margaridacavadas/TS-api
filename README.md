@@ -1,5 +1,5 @@
 # Taylor Swift - api (WIP)
-A Taylor Swift API under construction
+A Taylor Swift API, written with ExpressJS, under construction
 
 ### Request methods currently active
 
