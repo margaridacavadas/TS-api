@@ -1,4 +1,4 @@
-var stateOfGrace = {
+let stateOfGrace = {
     albumId: 4,
     song: "State Of Grace",
     lyrics: `I'm walking fast through the traffic lights
@@ -58,7 +58,7 @@ Love is a ruthless game
 Unless you play it good and right`
 };
 
-var red = {
+let red = {
     albumId: 4,
     song: "Red",
     lyrics: `Loving him is like driving a new Maserati down a dead-end street
@@ -122,7 +122,7 @@ Yeah, yeah
 His love was like driving a new Maserati down a dead-end street`
 };
 
-var treacherous = {
+let treacherous = {
     albumId: 4,
     song: "Treacherous",
     lyrics: `Put your lips close to mine
@@ -180,7 +180,7 @@ This slope is treacherous
 I, I, I like it`
 };
 
-var iKnewYouWereTrouble = {
+let iKnewYouWereTrouble = {
     albumId: 4,
     song: "I Knew You Were Trouble",
     lyrics: `Once upon a time, a few mistakes ago
@@ -245,7 +245,7 @@ I knew you were trouble when you walked in
 Trouble, trouble, trouble`
 };
 
-var allTooWell = {
+let allTooWell = {
     albumId: 4,
     song: "All Too Well",
     lyrics: `I walked through the door with you, the air was cold
@@ -308,7 +308,7 @@ Down the stairs, you were there, you remember it all
 It was rare, I was there, I remember it all too well`
 };
 
-var twentyTwo = {
+let twentyTwo = {
     albumId: 4,
     song: "22",
     lyrics: `It feels like a perfect night to dress up like hipsters
@@ -399,7 +399,7 @@ I gotta have you
 `
 };
 
-var iAlmostDo = {
+let iAlmostDo = {
     albumId: 4,
     song: "I Almost Do",
     lyrics: `I bet this time of night you're still up
@@ -446,7 +446,7 @@ I bet you're sitting in your chair by the window looking out at the city
 And I hope sometimes you wonder about me`
 };
 
-var weAreNeverGettingBackTogether = {
+let weAreNeverGettingBackTogether = {
     albumId: 4,
     song: "We Are Never Getting Back Together",
     lyrics: `I remember when we broke up the first time
@@ -504,7 +504,7 @@ You go talk to your friends, talk to my friends, talk to me (talk to me)
 But we are never ever ever ever getting back together`
 };
 
-var stayStayStay = {
+let stayStayStay = {
     albumId: 4,
     song: "Stay Stay Stay",
     lyrics: `I'm pretty sure we almost broke up last night
@@ -557,7 +557,7 @@ That's so fun!
 `
 };
 
-var theLastTime = {
+let theLastTime = {
     albumId: 4,
     song: "The Last Time",
     lyrics: `
@@ -627,7 +627,7 @@ Last time I'm asking you
 Last time I'm asking you this`
 };
 
-var holyGround = {
+let holyGround = {
     albumId: 4,
     song: "Holy Ground",
     lyrics: `I was reminiscing just the other day
@@ -669,7 +669,7 @@ But I don't wanna dance if I'm not dancing with you
 `
 };
 
-var sadBeautifulTragic = {
+let sadBeautifulTragic = {
     albumId: 4,
     song: "Sad Beautiful Tragic",
     lyrics: `Long handwritten note deep in your pocket
@@ -703,7 +703,7 @@ We had a beautiful magic love there
 What a sad beautiful tragic love affair`
 };
 
-var theLuckyOne = {
+let theLuckyOne = {
     albumId: 4,
     song: "The Lucky One",
     lyrics: `New to town with a made up name in the angel's city
@@ -754,7 +754,7 @@ And they'll tell you now, you're the lucky one, oh, oh, oh
 Oh, whoa, oh, oh`
 };
 
-var everythingHasChanged = {
+let everythingHasChanged = {
     albumId: 4,
     song: "Everything Has Changed",
     lyrics:`
@@ -823,7 +823,7 @@ All my days I'll know your face
 All I know since yesterday is everything has changed`
 };
 
-var starlight = {
+let starlight = {
     albumId: 4,
     song: "Starlight",
     lyrics: `I said, "Oh my, what a marvelous tune."
@@ -879,7 +879,7 @@ Don't you see the starlight, starlight?
 Don't you dream impossible things?`
 };
 
-var beginAgain = {
+let beginAgain = {
     albumId: 4,
     song: "Begin Again",
     lyrics: `Took a deep breath in the mirror
@@ -932,7 +932,7 @@ But on a Wednesday in a cafe I watched it begin again
 But on a Wednesday in a cafe I watched it begin again`
 };
 
-var theMomentIKnew = {
+let theMomentIKnew = {
     albumId: 4,
     song: "The Moment I Knew",
     lyrics: `You should've been there
@@ -1009,7 +1009,7 @@ And that was the moment I knew
 `
 };
 
-var comeBackBeHere = {
+let comeBackBeHere = {
     albumId: 4,
     song: "Come Back... Be Here",
     lyrics: `You said it in a simple way
@@ -1067,7 +1067,7 @@ Come back... be here
 Come back... be here`
 };
 
-var girlAtHome = {
+let girlAtHome = {
     albumId: 4,
     song: "Girl At Home",
     lyrics: `Don't look at me
@@ -1169,7 +1169,7 @@ It would be a fine proposition
 If I hadn't once been just like her`
 };
 
-var redAlbum = [
+let redAlbum = [
     stateOfGrace,
     red,
     treacherous,

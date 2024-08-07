@@ -1,4 +1,4 @@
-var timMcGraw = {
+let timMcGraw = {
     albumId : 1,
     song: "Tim McGraw",
     lyrics: `He said the way my blue eyes shined
@@ -67,7 +67,7 @@ var timMcGraw = {
     `
 };
 
-var pictureToBurn = {
+let pictureToBurn = {
     albumId: 1,
     song: "Picture To Burn",
     lyrics: `State the obvious, I didn't get my perfect fantasy
@@ -129,7 +129,7 @@ var pictureToBurn = {
     Baby, burn...`
 };
 
-var teardropsOnMyGuitar = {
+let teardropsOnMyGuitar = {
     albumId: 1,
     song: "Teardrops On My Guitar",
     lyrics: `Drew looks at me
@@ -180,7 +180,7 @@ Drew looks at me
 I fake a smile so he won't see`
 };
 
-var aPlaceInThisWorld = {
+let aPlaceInThisWorld = {
     albumId: 1,
     song: "A Place In This World",
     lyrics: `I don't know what I want, so don't ask me
@@ -218,7 +218,7 @@ Oh I'm just a girl, oh, oh
 Oh I'm just a girl`
 };
 
-var coldAsYou = {
+let coldAsYou = {
     albumId: 1,
     song: "Cold As You",
     lyrics: `You have a way of coming easily to me
@@ -250,7 +250,7 @@ And now that I'm sitting here thinking it through
 I've never been anywhere cold as you`
 };
 
-var theOutside = {
+let theOutside = {
     albumId: 1,
     song: "The Outside",
     lyrics: `I didn't know what I would find
@@ -297,7 +297,7 @@ And I've been a lot of lonely places
 I've never been on the outside`
 };
 
-var tiedTogetherWithASmile = {
+let tiedTogetherWithASmile = {
     albumId: 1,
     song: "Tied Together With A Smile",
     lyrics: `Seems the only one who doesn't see your beauty
@@ -346,7 +346,7 @@ Goodbye, baby
 With a smile, baby, baby`
 };
 
-var stayBeautiful = {
+let stayBeautiful = {
     albumId: 1,
     song: "Stay Beautiful",
     lyrics: `Cory's eyes are like a jungle
@@ -411,7 +411,7 @@ Stay beautiful
 Na, na, na, na, na`
 };
 
-var shouldveSaidNo = {
+let shouldveSaidNo = {
     albumId: 1,
     song: "Should've Said No",
     lyrics: `It's strange to think the songs we used to sing
@@ -469,7 +469,7 @@ You should've said "No", baby, and you might still have me
 `
 };
 
-var marysSong = {
+let marysSong = {
     albumId: 1,
     song: "Mary's Song (Oh My My My)",
     lyrics: `She said, I was seven and you were nine
@@ -519,7 +519,7 @@ In the sky, oh my, my, my
 `
 };
 
-var ourSong = {
+let ourSong = {
     albumId: 1,
     song: "Our Song",
     lyrics: `I was riding shotgun
@@ -591,7 +591,7 @@ And an old napkin
 And I wrote down our song`
 };
 
-var imOnlyMeWhenImWithYou = {
+let imOnlyMeWhenImWithYou = {
     albumId: 1,
     song: "I'm Only Me When I'm With You",
     lyrics: `Friday night beneath the stars
@@ -644,7 +644,7 @@ With you
 `
 };
 
-var invisible = {
+let invisible = {
     albumId: 1,
     song: "Invisible",
     lyrics: `She can't see the way your eyes
@@ -703,7 +703,7 @@ She can't see the way your eyes
 Light up when you smile`
 };
 
-var aPerfectlyGoodHeart = {
+let aPerfectlyGoodHeart = {
     albumId: 1,
     song: "A Perfectly Good Heart",
     lyrics: `Why would you wanna break a perfectly good heart?
@@ -736,7 +736,7 @@ Why would you wanna make the very first scar?
 Why would you wanna break a perfectly good heart?`
 };
 
-var taylorSwiftAlbum = [
+let taylorSwiftAlbum = [
     timMcGraw,
     pictureToBurn,
     teardropsOnMyGuitar,

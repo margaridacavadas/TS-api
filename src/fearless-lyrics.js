@@ -1,4 +1,4 @@
-var jumpThenFall = {
+let jumpThenFall = {
     albumId: 2,
     song: "Jump Then Fall",
     lyrics: `I like the way you sound in the morning
@@ -69,7 +69,7 @@ You can jump then fall, jump then fall
 Jump then fall into me, into me, yeah`
 }
 
-var untouchable = {
+let untouchable = {
     albumId: 2,
     song: "Untouchable",
     lyrics: `Untouchable like a distant diamond sky
@@ -156,7 +156,7 @@ They're spelling out your name, oh
 `
 }
 
-var foreverAndAlways = {
+let foreverAndAlways = {
     albumId: 2,
     song: "Forever And Always",
     lyrics: `Once upon a time
@@ -239,7 +239,7 @@ You didn't mean it baby
 You said "forever and always", yeah`
 }
 
-var comeInWithTheRain = {
+let comeInWithTheRain = {
     albumId: 2,
     song: "Come In With The Rain",
     lyrics: `I could go back to every laugh
@@ -284,7 +284,7 @@ I could go back to every laugh
 But I don't wanna go there anymore`
 }
 
-var superstar = {
+let superstar = {
     albumId: 2,
     song: "Superstart",
     lyrics: `This is wrong but I can't help but feel like
@@ -330,7 +330,7 @@ Give me a photograph to hang on my wall, superstar
 Sweet, sweet superstar, superstar`
 }
 
-var theOtherSideOfTheDoor = {
+let theOtherSideOfTheDoor = {
     albumId: 2,
     song: "The Other Side Of The Door",
     lyrics: `In the heat of the fight I walked away
@@ -388,7 +388,7 @@ After everything and that little black dress
 After everything I must confess, I need you`
 }
 
-var fearless = {
+let fearless = {
     albumId: 2,
     song: "Fearless",
     lyrics: `There's somethin' 'bout the way
@@ -452,7 +452,7 @@ Oh-oh
 Oh yeah`
 }
 
-var fifteen = {
+let fifteen = {
     albumId: 2,
     song: "Fifteen",
     lyrics: `You take a deep breath and you walk through the doors
@@ -514,7 +514,7 @@ Take a deep breath, girl
 Take a deep breath as you walk through the doors`
 }
 
-var loveStory = {
+let loveStory = {
     albumId: 2,
     song: "Love Story",
     lyrics: `We were both young when I first saw you
@@ -584,7 +584,7 @@ Oh, oh, oh, oh, oh, oh
 `
 }
 
-var heyStephen = {
+let heyStephen = {
     albumId: 2,
     song: "Hey Stephen",
     lyrics: `Mmm-mm, mm-mm
@@ -659,7 +659,7 @@ Can't help myself
 I can't help myself`
 }
 
-var whiteHorse = {
+let whiteHorse = {
     albumId: 2,
     song: "White Horse",
     lyrics: `Say you're sorry
@@ -713,7 +713,7 @@ Oh, it's too late
 To catch me now`
 }
 
-var youBelongWithMe = {
+let youBelongWithMe = {
     albumId: 2,
     song: "You Belong With Me",
     lyrics: `You're on the phone with your girlfriend
@@ -800,7 +800,7 @@ You belong with me
 `
 }
 
-var breathe = {
+let breathe = {
     albumId: 2,
     song: "Breathe",
     lyrics: `
@@ -852,7 +852,7 @@ I'm sorry
 `
 }
 
-var tellMeWhy = {
+let tellMeWhy = {
     albumId: 2,
     song: "Tell Me Why",
     lyrics: `I took a chance, I took a shot
@@ -909,7 +909,7 @@ Now you know
 `
 }
 
-var youreNotStory = {
+let youreNotStory = {
     albumId: 2,
     song: "You're Not Sorry",
     lyrics: `All this time I was wasting
@@ -970,7 +970,7 @@ No, no, no, no
 No, no, no, no`
 }
 
-var theWayILovedYou = {
+let theWayILovedYou = {
     albumId: 2,
     song: "The Way I Loved You",
     lyrics: `He is sensible and so incredible
@@ -1029,7 +1029,7 @@ Never knew I could feel that much
 And that's the way I loved you`
 }
 
-var theBestDay = {
+let theBestDay = {
     albumId: 2,
     song: "The Best Day",
     lyrics: `I'm five years old, it's getting cold, I've got my big coat on
@@ -1074,7 +1074,7 @@ And I didn't know if you knew, so I'm taking this chance to say
 That I had the best day with you today`
 }
 
-var change = {
+let change = {
     albumId: 2,
     song: "Change",
     lyrics: `And it's a sad picture
@@ -1130,7 +1130,7 @@ Hallelujah`
 
 
 
-var fearlessAlbum = [
+let fearlessAlbum = [
     jumpThenFall,
     untouchable,
     foreverAndAlways,

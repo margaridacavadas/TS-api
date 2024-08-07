@@ -1,4 +1,4 @@
-var mine = {
+let mine = {
     albumId: 3,
     song: "Mine",
     lyrics: `You were in college working part-time waiting tables
@@ -69,7 +69,7 @@ And I can see it
 I can see it now (see it now, see it now)`
 };
 
-var sparksFly = {
+let sparksFly = {
     albumId: 3,
     song: "Sparks Fly",
     lyrics: `The way you move is like a full-on rainstorm
@@ -128,7 +128,7 @@ Oh, baby, smile
 And the sparks fly`
 };
 
-var backToDecember = {
+let backToDecember = {
     albumId: 3,
     song: "Back To December",
     lyrics: `I'm so glad you made time to see me
@@ -196,7 +196,7 @@ I go back to December all the time
 All the time`
 };
 
-var speakNow = {
+let speakNow = {
     albumId: 3,
     song: "Speak Now",
     lyrics: `I am not the kind of girl
@@ -269,7 +269,7 @@ So glad you were around
 When they said, "Speak now."`
 };
 
-var dearJohn = {
+let dearJohn = {
     albumId: 3,
     song: "Dear John",
     lyrics: `Long were the nights
@@ -356,7 +356,7 @@ Don't you think I was too young?
 You should've known`
 };
 
-var mean = {
+let mean = {
     albumId: 3,
     song: "Mean",
     lyrics: `You, with your words like knives
@@ -424,7 +424,7 @@ And all you're ever gonna be is mean
 Why you gotta be so mean?`
 };
 
-var theStoryOfUs = {
+let theStoryOfUs = {
     albumId: 3,
     song: "The Story Of Us",
     lyrics: `I used to think one day we'd tell the story of us
@@ -487,7 +487,7 @@ And the story of us looks a lot like a tragedy now
 The end`
 };
 
-var neverGrowUp = {
+let neverGrowUp = {
     albumId: 3,
     song: "Never Grow Up",
     lyrics: `Your little hand's wrapped around my finger
@@ -550,7 +550,7 @@ Oh, don't you ever grow up
 Oh, never grow up, just never grow up`
 };
 
-var enchanted = {
+let enchanted = {
     albumId: 3,
     song: "Enchanted",
     lyrics: `There I was again tonight
@@ -624,7 +624,7 @@ Please don't be in love with someone else
 Please don't have somebody waiting on you`
 };
 
-var betterThanRevenge = {
+let betterThanRevenge = {
     albumId: 3,
     song: "Better Than Revenge",
     lyrics: `"Now go stand in the corner and think about what you did."
@@ -715,7 +715,7 @@ She took him faster than you could say "sabotage"
 `
 };
 
-var innocent = {
+let innocent = {
     albumId: 3,
     song: "Innocent",
     lyrics: `I guess you really did it this time
@@ -775,7 +775,7 @@ Lost your balance on a tightrope
 It's never too late to get it back`
 };
 
-var haunted = {
+let haunted = {
     albumId: 3,
     song: "Haunted",
     lyrics: `You and I walk a fragile line
@@ -838,7 +838,7 @@ Never ever thought I'd see it break
 Never thought I'd see it`
 };
 
-var lastKiss = {
+let lastKiss = {
     albumId: 3,
     song: "Last Kiss",
     lyrics: `I still remember the look on your face
@@ -912,7 +912,7 @@ Forever the name on my lips
 Just like our last`
 };
 
-var longLive = {
+let longLive = {
     albumId: 3,
     song: "Long Live",
     lyrics: `I said remember this moment
@@ -996,7 +996,7 @@ And bring on all the pretenders
 One day, we will be remembered`
 };
 
-var ours = {
+let ours = {
     albumId: 3,
     song: "Ours",
     lyrics: `Elevator buttons and morning air
@@ -1052,7 +1052,7 @@ But this love is ours
 `
 };
 
-var ifThisWasAMovie = {
+let ifThisWasAMovie = {
     albumId: 3,
     song: "If This Was A Movie",
     lyrics: `Last night I heard my own heart beating
@@ -1118,7 +1118,7 @@ Oh, I thought you'd be here by now, whoa
 Thought you'd be here by now`
 };
 
-var superman = {
+let superman = {
     albumId: 3,
     song: "Superman",
     lyrics: `Tall, dark and superman
@@ -1184,7 +1184,7 @@ When you come back down
 When you come back down`
 };
 
-var speakNowAlbum = [
+let speakNowAlbum = [
     mine,
     sparksFly,
     backToDecember,
