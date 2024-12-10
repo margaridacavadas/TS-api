@@ -1184,7 +1184,7 @@ When you come back down
 When you come back down`
 };
 
-let speakNowAlbum = [
+const album = [
     mine,
     sparksFly,
     backToDecember,
@@ -1204,4 +1204,4 @@ let speakNowAlbum = [
     superman
 ];
 
-export{speakNowAlbum};
+export{album};

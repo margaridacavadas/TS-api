@@ -1130,7 +1130,7 @@ Hallelujah`
 
 
 
-let fearlessAlbum = [
+const album = [
     jumpThenFall,
     untouchable,
     foreverAndAlways,
@@ -1151,4 +1151,4 @@ let fearlessAlbum = [
     change
 ];
 
-export {fearlessAlbum};
+export {album};

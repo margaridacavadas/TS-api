@@ -1073,7 +1073,7 @@ Think I'm finally clean`
 }
 
 
-let birthYearAlbum = [
+const album = [
     welcomeToNewYork,
     blankSpace,
     style,
@@ -1089,4 +1089,4 @@ let birthYearAlbum = [
     clean
 ];
 
-export {birthYearAlbum}
+export {album}
