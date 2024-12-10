@@ -736,7 +736,7 @@ Why would you wanna make the very first scar?
 Why would you wanna break a perfectly good heart?`
 };
 
-let taylorSwiftAlbum = [
+const album = [
     timMcGraw,
     pictureToBurn,
     teardropsOnMyGuitar,
@@ -756,4 +756,4 @@ let taylorSwiftAlbum = [
 
 
 
-export {taylorSwiftAlbum};
+export {album};

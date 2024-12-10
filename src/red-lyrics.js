@@ -1169,7 +1169,7 @@ It would be a fine proposition
 If I hadn't once been just like her`
 };
 
-let redAlbum = [
+const album = [
     stateOfGrace,
     red,
     treacherous,
@@ -1191,4 +1191,4 @@ let redAlbum = [
     girlAtHome
 ];
 
-export{redAlbum};
+export{album};
